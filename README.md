@@ -1,0 +1,3 @@
+airplane_end 为源代码部分
+game 部分有打包好的可运行exe，未连接数据库只能游客登录
+airplanedata为数据库数据
