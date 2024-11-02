@@ -1,0 +1,1 @@
+1.没有sqlserver的，或者odbc sqlserver驱动，需要先安装驱动
